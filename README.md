@@ -1,2 +1,2 @@
 # allservices
-член
+тест
